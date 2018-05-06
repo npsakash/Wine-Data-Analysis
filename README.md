@@ -108,9 +108,9 @@ Looking at the distributions of the price of French and California wines, we see
     
 <p>The case was similar when comparing the distributions of wine point values of French wines with California wines.  Again, the distributions were similar, so we were not comparing highly rated wines from one region against low rated wines from another region.
 
-    <!--    Point Distribution-->
-    <img src="https://lh3.googleusercontent.com/GFJaiXZRgdcwZHYg6u_83MSJQJNjbp3ouMJf6JLa7tuyW94JrnadIc3nAWhl66CeA0e0ZSBe7nfPyuvFS9dlX0OUdwc1Qs9VhxGfMRzXkCM8KSUxz6OSjTEdlRf08H2T_lSFa1IWi7MUtEcRDCyAR2QulPA2vEKMl0oB2JcTC5QNx2CDNevtNhV8zrBw3CUUbpHz_OcG0Pq3yzrR9FuC4tWUf7dYN7hHvQH5b8XFaSKgHVNjLoKCpcxbl6XegrZ6s5zpMmn98GtFWPe1rUHahiVtARMyU_rlx_5U_6hgIEQPl1-jqN2kb9eT-0xj1HIKdfJkm3NbqnLivOHYMGr36nCYz-e3mfy651cRgA0lvBOcudvgsd6DiwdyZnWuXEKmEbpuvBNazTHflSJr3IwjYKmi-YzBgyhjxSgJK0_YnRydWYIIzW2CF3LH-nLuUX7tf7Js91kCzxtZqbwkNMGaPsXbCnZLpf0R6L3LEy1HgvRHto55OsWzMiUxS4sOdsb67k8kPNoQiHnjQEAsvhbLII4VMIF6Qxax2VFRStacU4fx422o0lb2EFJIMSCsov36QxjFJ0fHew-D1V8A6WZ-4D0_ASXCjVh5XF-stTgC=w645-h363-no" alt="Point Distribution" height="350" align="center">
 </p>
+<!--    Point Distribution-->
+<img src="https://lh3.googleusercontent.com/GFJaiXZRgdcwZHYg6u_83MSJQJNjbp3ouMJf6JLa7tuyW94JrnadIc3nAWhl66CeA0e0ZSBe7nfPyuvFS9dlX0OUdwc1Qs9VhxGfMRzXkCM8KSUxz6OSjTEdlRf08H2T_lSFa1IWi7MUtEcRDCyAR2QulPA2vEKMl0oB2JcTC5QNx2CDNevtNhV8zrBw3CUUbpHz_OcG0Pq3yzrR9FuC4tWUf7dYN7hHvQH5b8XFaSKgHVNjLoKCpcxbl6XegrZ6s5zpMmn98GtFWPe1rUHahiVtARMyU_rlx_5U_6hgIEQPl1-jqN2kb9eT-0xj1HIKdfJkm3NbqnLivOHYMGr36nCYz-e3mfy651cRgA0lvBOcudvgsd6DiwdyZnWuXEKmEbpuvBNazTHflSJr3IwjYKmi-YzBgyhjxSgJK0_YnRydWYIIzW2CF3LH-nLuUX7tf7Js91kCzxtZqbwkNMGaPsXbCnZLpf0R6L3LEy1HgvRHto55OsWzMiUxS4sOdsb67k8kPNoQiHnjQEAsvhbLII4VMIF6Qxax2VFRStacU4fx422o0lb2EFJIMSCsov36QxjFJ0fHew-D1V8A6WZ-4D0_ASXCjVh5XF-stTgC=w645-h363-no" alt="Point Distribution" height="350" align="center">
     <p>One point to note with the data from the point distributions is that French wines have an average rating two-points higher than the average rating of California wines.  This could be a result of French wines being a little better on average than California wines, but it could also be a bias in the ratings given by the tasters who knew what wine they were tasting ahead of time.  However, when comparing the average ratings and prices of the four tasters, there appears to be no bias as the average points for all tasters was 84 for all wines, French wines, and California wines and the average price of the wine tasted for all tasters was $35 for all wines, French wines, and California wines.  </p>
 <p>We also ran distributions on the varieties of wines from both France and California to see if there were any overlaps in the types of wines being produced by each region.
 <br>
@@ -130,7 +130,7 @@ While observing the price distributions, we noticed that it appeared that prices
 <p>    
 With this in mind, we looked at the log-price with respect to the vintage and found no correlation with the price with respect to the wine’s vintage.  
 
-    <br>
+<br>
 <img src="https://lh3.googleusercontent.com/fsIyjxKUFtzdZkAMRg-rA76liyYMmiYkhbEPqoGCIwRtCTC0xFW1jE32UwkMGFYZS6iRPsm85pvzjrh4xJEge02z5N7bAxJN0sJsbZuxZTLAsnze4rtl2dCvtyaQNFuI2mNii-xsPMiU0YK7cPCRoqCD_ruKJNsgshg8702clEy0WrK8M-UYNKInsVVCDCvQ4VpgYWQ8X8PYv9I-dHitrp6ge_B0KxSWiHuOY1jBxMM6JbsJsBnLRTVNYn5-n3IYRlBkAJeKZT7y2iV7E3EcsDMz4AftfooiL4UdMnItSYI_hUB3dbFqPO-341ifv48sdIKusrEUEeo1feyc9kR3xWcO8SK-nAV3Zot8lbrcW4UgDVCzTODnodvaf83B7Onatr9rviwNYn7ffwk5VnKuRIrASjPs2rglGe3sci6WNZ7QL8WAod00TbIKJzjcicOz4Hys7V04fWjOfeKoKQEnOn-aPJjk42-pRp88j2BjkI2SpZQNxkBMEpJWrUzDP6ZQwziVGNzd5B0eWX7gGJR1zbW47aluGA2A8tRsI4wcrznRMruHfqKsM4giSkOrGstcLkRUmE-FcvU5CuLD8Ov_JSk_9qzTS02TvH183dpO=w645-h363-no" alt="Log(Price) by Vintage" height="350" align="center">
     </p>
     
